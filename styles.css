@@ -56,11 +56,13 @@ h3{
 margin: auto;
 text-align: center;
 line-height: 35px;
+font-size:1.2em;
 }
 .img2{
   float:left;
-  width: 100px;
-  padding-top: 20px;
+  width: 6.2em;
+  padding-top: 1.6em;
+  
 
 }
 p{
